@@ -12,9 +12,13 @@ Lien vers le code du projet : data_analysis
 
 ## Compétences et expériences
 • Langages de programmation : Python, R, SQL
+
 • Frameworks : Scikit-learn, TensorFlow, Keras, PyTorch, Spark, PyCaret, Streamlit
+
 • Outils de visualisation : Matplotlib, Seaborn, Tableau, Power BI, QGIS
+
 • Plateformes cloud : Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
+
 • Méthodes de travail : Agile
 
 ## Contact
