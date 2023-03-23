@@ -15,10 +15,10 @@ Cette apllication Web consiste à créer un modèle pour détecter la fraude par
 
 * Lien vers le code du projet : [App_Fraude](https://github.com/JulesThesyC/App_Fraude)
 
-### Mask_Face_Detection
+### Face_Mask_Detection
 
 
-* Lien vers le code du projet : [Mask_Face_Detection](https://github.com/JulesThesyC/Mask_Face_Detection)
+* Lien vers le code du projet : [Face_Mask_Detection](https://github.com/JulesThesyC/Face-Mask-Detection)
 
 ## Compétences et expériences
 • Langages de programmation : Python, R, SQL
