@@ -13,7 +13,12 @@ Cette application Web est un outil No-code pour l'analyse exploratoire des donn�
 ### App_Fraude
 Cette apllication Web consiste à créer un modèle pour détecter la fraude par carte de crédit. Il s'agit de former un modèle sur un ensemble de données contenant des transactions saines et frauduleuses.
 
-* Lien vers le code du projet : 
+* Lien vers le code du projet : [App_Fraude](https://github.com/JulesThesyC/App_Fraude)
+
+### Mask_Face_Detection
+
+
+* Lien vers le code du projet : [Mask_Face_Detection](https://github.com/JulesThesyC/Mask_Face_Detection)
 
 ## Compétences et expériences
 • Langages de programmation : Python, R, SQL
