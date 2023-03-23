@@ -1,8 +1,11 @@
 # Portfolio de Jules
 
-### Bienvenue dans mon portfolio! 
+## Bienvenue dans mon portfolio! 
 
 Ici, vous pouvez trouver des projets de data science que j'ai réalisés, ainsi que mes compétences et expériences.
+
+## Projets
+### JulesAutoML
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
