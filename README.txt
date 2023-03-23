@@ -1,6 +1,8 @@
 # Portfolio de Jules
 
+### Bienvenue dans mon portfolio! 
 
+Ici, vous pouvez trouver des projets de data science que j'ai réalisés, ainsi que mes compétences et expériences.
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
@@ -22,15 +24,5 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Contact
+Vous pouvez me contacter par email à julesthesyc@gmail.com, ou via mon profil LinkedIn.
