@@ -22,4 +22,4 @@ Lien vers le code du projet : data_analysis
 • Méthodes de travail : Agile
 
 ## Contact
-Vous pouvez me contacter par email à julesthesyc@gmail.com, ou via mon profil LinkedIn.
+Vous pouvez me contacter par email à julesthesyc@gmail.com, ou via mon [profil LinkedIn](https://www.linkedin.com/in/jules-th%C3%A9sy-c-02347412a/).
